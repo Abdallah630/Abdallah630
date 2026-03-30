@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
-  <h1>Hi, I'm Abdullah 👋</h1>
+  <h1>Hi, I'm Abdallah 👋</h1>
   <h3>💻 Backend .NET Developer | 🚀 Building Scalable Web APIs</h3>
 </div>
 
@@ -10,9 +10,8 @@
 
 - 🔭 Currently working with **.NET 8, C#, EF Core, and REST APIs**
 - 🌱 Exploring **Clean Architecture, CQRS, and DDD**
-- ☁️ Interested in **Azure** and **Cloud-native development**
-- 🐧 I love working on **Linux-based environments**
-- 🎯 Always looking to improve my skills and write better code
+- 💼 Open to **Freelance** opportunities
+- 🎯 Always looking to improve my skills and write cleaner code
 
 ---
 
@@ -26,19 +25,24 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallah-saad&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-saad&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah630&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah630&layout=compact&theme=tokyonight" width="45%" />
 </div>
+
+---
+
+### 🚀 Latest Project
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Blog API](https://github.com/Abdallah630/BlogApp) | RESTful Blog API with Clean Architecture | .NET 8, EF Core, JWT |
 
 ---
 
@@ -50,19 +54,8 @@
 
 ### ⚡ Fun Fact
 
-> The best backend code is the one you **don’t need to touch for years** — because it just works. 😉
+> The best backend code is the one you **don't need to touch for years** — because it just works. 😉
 
 ---
 
-### 🌀 Code Loop
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
-
----
-
-### 👁️ Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=abdallah-saad&style=flat&color=orange)
-
+![Profile views](https://komarev.com/ghpvc/?username=Abdallah630&style=flat&color=orange)
